@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shruti
 - 👀 I’m interested in ...coding and learning new things
-- 🌱 I’m currently learning ...pyhthon,c,machine learning
+- 🌱 I’m currently learning...python,c++,machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
