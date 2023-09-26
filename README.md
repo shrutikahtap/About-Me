@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShrutiIsFab
+- 👋 Hi, I’m @Shruti
 - 👀 I’m interested in ...coding and learning new things
 - 🌱 I’m currently learning ...pyhthon,c,machine learning
 - 💞️ I’m looking to collaborate on ...
