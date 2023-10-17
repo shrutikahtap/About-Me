@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shruti
-- 👀 I’m interested in ...coding and learning new things
-- 🌱 I’m currently learning...python,c++,machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in coding and learning new things.
+- 🌱 I’m currently learning Python, C++, Data Science, HTML.
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me shrutipathak1201@gmail.com
 
 <!---
 ShrutiIsFab/ShrutiIsFab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
